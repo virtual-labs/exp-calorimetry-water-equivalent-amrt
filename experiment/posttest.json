@@ -2,35 +2,34 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Reactions taking place with the evolution of heat are known as.........?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Exothermic.",
+        "b": "Neutralization.",
+        "c": "None of the above.",
+        "d": "Endothermic."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which of the following best describes a calorimeter?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "All the above.",
+        "b": "It consists of water, thermometer and an isolated system.",
+        "c": "It consists of water, unknown solution and an isolated system.",
+        "d": "Measure the entropy of chemical reactions in the system."
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The heat required for raising unit mass of substance by one degree of temperature is called?",
+      "answers": {
+        "a": "Heat of Dilution",
+        "b": "Heat of Neutralisation",
+        "c": "Heat Capacity",
+        "d": "Heat of hydration"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
