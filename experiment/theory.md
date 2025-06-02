@@ -127,9 +127,9 @@ $$NaCl \longrightarrow Na^++Cl^-(aq)$$
   The heat of neutralisation of an acid is defined as the amount of heat evolved when one equivalent of an acid and one equivalent of a base undergo a neutralisation reaction to form water and a salt. Similarly, the heat of neutralisation of a base is the amount of heat evolved when 1 gram equivalent of the base is completely neutralised by a strong acid in a dilute solution.
 </p>
 
-$$HA+BOH\longrightleftharpoons AB+H_2O+57.3\text{KJ}$$
+$$HA+BOH\rightleftharpoons AB+H_2O+57.3\text{KJ}$$
 
-$$H^++A^-+B^++OH^- \longrightleftharpoons A^++B^++H_2O+57.3\text{KJ}$$
+$$H^++A^-+B^++OH^- \rightleftharpoons A^++B^++H_2O+57.3\text{KJ}$$
 
 <h3>Types of Calorimeter:</h3>
 
