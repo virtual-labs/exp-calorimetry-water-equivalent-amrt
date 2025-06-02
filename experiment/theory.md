@@ -44,7 +44,7 @@ The individual heat flow rate can be directly related to the heat capacity and t
 
 $$Q_{cal}=C_{cal} \Delta T$$
 
-$Q_W = C_W \Delta T$$
+$$Q_W = C_W \Delta T$$
 
 $C_{cal}$ = The heat capacity of the calorimeter.
 $C_W$ = The heat capacity of the water.
