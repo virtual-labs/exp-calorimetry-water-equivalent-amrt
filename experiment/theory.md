@@ -10,7 +10,7 @@ Chemical reactions usually accompany with the formation and absorption of energy
 
 
  
-div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; text-align: center;">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; text-align: center;">
 <div style="max-width: 200px;">
 <img src="./images/figure2.jpg" alt="Figure 1" style="width: 100%; height: auto;">
 <p style="font-size: smaller; font-style: italic;">Joseph Black</p>
