@@ -46,7 +46,8 @@
 
 ### Observations and Calculations:
 
-<table border="1" cellspacing="0" cellpadding="5">
+<div align="center">
+<table>
   <caption><strong>Water Equivalent Calorimeter</strong></caption>
   <thead>
     <tr>
@@ -84,7 +85,7 @@
     <tr><td>20</td><td>570</td><td></td><td></td><td></td></tr>
   </tbody>
 </table>
-
+</div>
 
 
 <div>Temperature of water and calorimeter (T₁) = .................. °C</div>
