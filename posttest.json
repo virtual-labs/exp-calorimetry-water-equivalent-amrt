@@ -1,0 +1,38 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Reactions taking place with the evolution of heat are known as.........?",
+      "answers": {
+        "a": "Exothermic.",
+        "b": "Neutralization.",
+        "c": "None of the above.",
+        "d": "Endothermic."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following best describes a calorimeter?",
+      "answers": {
+        "a": "All the above.",
+        "b": "It consists of water, thermometer and an isolated system.",
+        "c": "It consists of water, unknown solution and an isolated system.",
+        "d": "Measure the entropy of chemical reactions in the system."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The heat required for raising unit mass of substance by one degree of temperature is called?",
+      "answers": {
+        "a": "Heat of Dilution",
+        "b": "Heat of Neutralisation",
+        "c": "Heat Capacity",
+        "d": "Heat of hydration"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
